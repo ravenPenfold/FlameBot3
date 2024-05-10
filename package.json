@@ -1,0 +1,25 @@
+{
+  "name": "flamebot3",
+  "version": "3.0.0",
+  "description": "A little bit of a firey Discord Bot for you!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanpenfold/FlameBot3.git"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "Ryan \"Edgewurth\" Penfold",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ryanpenfold/FlameBot3/issues"
+  },
+  "homepage": "https://github.com/ryanpenfold/FlameBot3#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  }
+}
